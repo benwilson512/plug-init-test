@@ -1,0 +1,4 @@
+%{"phoenix": {:hex, :phoenix, "1.2.0-rc.0"},
+  "phoenix_pubsub": {:hex, :phoenix_pubsub, "1.0.0-rc.0"},
+  "plug": {:hex, :plug, "1.1.4"},
+  "poison": {:hex, :poison, "2.1.0"}}
